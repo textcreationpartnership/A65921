@@ -1,0 +1,551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dreadfulness of the sin of despising dominion and speaking evil of dignities represented in a sermon preached before the Right Honourable the Lord Mayor, and Court of Aldermen, at the Guild-Hall chappel, July 30, 1682 / by John Whitfeld ...</title>
+            <author>Whitfield, John, 1630 or 31-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65921</idno>
+            <idno type="STC">Wing W2004</idno>
+            <idno type="STC">ESTC R8955</idno>
+            <idno type="EEBO-CITATION">11983677</idno>
+            <idno type="OCLC">ocm 11983677</idno>
+            <idno type="VID">51919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 523:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dreadfulness of the sin of despising dominion and speaking evil of dignities represented in a sermon preached before the Right Honourable the Lord Mayor, and Court of Aldermen, at the Guild-Hall chappel, July 30, 1682 / by John Whitfeld ...</title>
+                  <author>Whitfield, John, 1630 or 31-1705.</author>
+               </titleStmt>
+               <extent>[4], 51 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Carr ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Jude I, 8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51919:1"/>
+            <pb facs="tcp:51919:1" rendition="simple:additions"/>
+            <p>THE DREADFULNESS OF THE SIN OF Deſpiſing Dominion, AND Speaking Evil of Dignities: Repreſented in a SERMON Preached before the Right Honourable, the Lord Mayor, AND Court of Aldermen, At the <hi>Guild-Hall</hi> Chappel, <hi>July</hi> 30. 1682.</p>
+            <p>By <hi>John Whitfeld,</hi> A. M. ſometimes of <hi>Jeſus</hi> Colledge in <hi>Cambridge,</hi> and now Rector of <hi>Bugbrook</hi> near <hi>Northampton.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Carr,</hi> at the <hi>Kings Head,</hi> at the Weſt end of St. <hi>Pauls</hi> Church. MDCLXXXII.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:51919:2"/>
+            <opener>
+               <signed>Moore, Mayor.</signed>
+            </opener>
+            <opener>
+               <dateline>
+                  <date>Cur. Speci<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> vent. die Dominico xxx. die <hi>Julii</hi> 1682. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni Regis <hi>Caroli</hi> ſecundi <hi>Angl.</hi> &amp;c. xxx<hi rend="sup">iiijto.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Whit<g ref="char:EOLhyphen"/>feld</hi> to Print his Sermon, this day Preached at the <hi>Guild-Hall Chappel,</hi> be<g ref="char:EOLhyphen"/>fore the Lord Mayor, and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagstaffe</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51919:2"/>
+            <head>To the Right Honourable Sir <hi>JOHN MOORE,</hi> Kt. Lord Mayor of the City of <hi>London,</hi> and to the Honourable Court of Aldermen, his Brethren.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>NExt to deſpiſing thoſe Dominions, the Vindi<g ref="char:EOLhyphen"/>cation of which I have preſum'd humbly to offer at in the Diſcourſe a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ext, a demurr to your Honours Order for this impreſſion of it, would be a Crime of greateſt magnitude; which I could not contrive how to attone for. I know too well mine own deficiencies, to render my ſelf and them obnoxi<g ref="char:EOLhyphen"/>ous to the publick Cenſure of this critical Age, but withal know as well, who is Gods Repreſentative in this Kingdom, and the Kings, in this Great and celebrated City; where like a Wiſe Maſter-Builder you have laid ſuch a Foundati<g ref="char:EOLhyphen"/>on, that if your Succeſſours ſhall make a Superſtructure pro<g ref="char:EOLhyphen"/>portionable, the Top ſtone will come to be advanced in glory to the beſt of Religions, Kings, and Churches in the World; And thereby Monuments erected of juſt and Pious fame, to your ſelf and them, more laſting than thoſe of Braſs and Marble; more Glorious than the Re-erection of this ſplen<g ref="char:EOLhyphen"/>did City: Where the Foundations have been lately attem<g ref="char:EOLhyphen"/>pted to be deſtroyed, in a ſadder ſenſe than ever. Towards the prevention of which great Fatality, what here I have (with no other proſpect than a truly conſcientious one)
+<pb facs="tcp:51919:3"/> deſign'd, I have alſo endeavour'd to make good by Scripture reaſon, the beſt, and moſt authentick; which none will, or can deny, but thoſe that have dar'd of later days to ab<g ref="char:EOLhyphen"/>jure both.</p>
+            <p>How propitious a reception this, and its poor Compiler found with your Lordſhip, I can never ſufficiently own to the World, with that gratitude and obedience which is due, for thoſe great and Everlaſting Obligations you have deign'd to lay upon me; having no better return to make, than the beſt and moſt importunate of my Devotions; That the Great God would graciouſly continue to aſſiſt you with that juſt and generous courage as well as conduct, which you have given very ample proof of, for carrying on the good Work you have begun; that at laſt it may be con<g ref="char:EOLhyphen"/>ſummate; and your ſecurity, reputation, and ſatisfaction with it, in that of our Moſt Gracious Soveraign, and his tru<g ref="char:EOLhyphen"/>ly ſober, ſtedfaſt, Loyal Subjects; in which Vote your Lord<g ref="char:EOLhyphen"/>ſhip may aſſure your ſelf of the moſt cordial concurrence of all ſuch, more eſpecially thoſe of our Function, and moſt pecu<g ref="char:EOLhyphen"/>liarly that of him, who though the meaneſt, yet cannot but be ambitious to be reputed,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Obliged, Devoted, and obedient Servant, <hi>John Whitfeld.</hi>
+               </signed>
+               <dateline>
+                  <date>Auguſt 10. 1682.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:51919:3"/>
+            <epigraph>
+               <q>
+                  <bibl>JUDE 8. Latter Part of the Verſe.</bibl>
+                  <p>
+                     <hi>—Deſpiſe Dominion, and ſpeak evil of Dignities.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>IF ever the complexion of any Age and People in the World were drawn in Co<g ref="char:EOLhyphen"/>lours to the Life, ſo certainly is that of them whom lately we have had too much of converſation with, by our Apoſtle in the great Inſtances here given, theſe two, that are the grand Characteriſticks of the Text:</p>
+            <p>A People that have dar'd the Divine as well as humane vengeance to the extremeſt height; whom whole Theaters of God's ſevereſt Judg<g ref="char:EOLhyphen"/>ments cannot awaken to any ſerious ſenſe of thoſe ſins which here the Apoſtle ſets out ſo very tragical a Scene of.</p>
+            <p>The ſin of the Apoſtate Angels, <note place="margin">Jude 6,7.</note> of <hi>Sodom</hi> and <hi>Gomorrha,</hi> and theſe one would think were great enough; yet there is one that vies them both, ſet off with the ſaddeſt and higheſt of all Em<g ref="char:EOLhyphen"/>phaſes; not only in doleful, but very diſmal ac<g ref="char:EOLhyphen"/>cents, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; as St. <hi>Chryſoſtome</hi> upon another place, What dreadful words he
+<pb n="2" facs="tcp:51919:4"/> ſpeaks when here he ſays, <hi>Deſpiſe Dominion, and ſpeak evil of Dignities!</hi> 
+               <note place="margin">Chryſoſt. in 1 Cor. 11.29.</note>
+            </p>
+            <p>Theſe the Apoſtle clearly ranks with thoſe: This he repreſents as a very formidable thing; and ſhews, how its doom, though it commen<g ref="char:EOLhyphen"/>ces, yet does not determine here, but in a place more hideous, in eternal fire.</p>
+            <p>This he renders as a ſin ſo hugely full of hor<g ref="char:EOLhyphen"/>rour, that nothing can be more. And ſo St. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">2 Pet. 2.10.</note> a ſin that they, we, and all the World, ſhould tremble at; where he has ſtigmatiz'd with as black Characters, not only the ſame thing, but done it in the ſelf ſame words, with our Apoſtle here; from whom, ſays <hi>Tirinus,</hi> 
+               <note place="margin">Tirinus in loc.</note> he took the Tranſcript of them, being wrote ſix years before, as he computes. The word for Dominion here being the ſame with that of Government there, which is <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a word appropriate to the Imperial Dignity and Dominion then; well if now in ſo great ve<g ref="char:EOLhyphen"/>neration.</p>
+            <p>For deſpiſing indeed, St. <hi>Peter</hi> uſes another word, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſetting their minds, all their Prudentials, Politicks, againſt that Government, thoſe Dignities, in the diminution and deriſion of them.</p>
+            <p>Saint <hi>Jude</hi> has <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies not only a rejection, as <hi>Beza</hi> and others give it; but
+<pb n="3" facs="tcp:51919:4"/> annihilation of this Government, making no<g ref="char:EOLhyphen"/>thing of it; as if thither they would (if they could) at laſt reduce it, into nothing; or, which is worſe, a Democratical <hi>Chaos</hi> and confuſion.</p>
+            <p>The other words (which with both the Apo<g ref="char:EOLhyphen"/>ſtles are the ſame) riſe higher ſtill, to the <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the glories, ſplendors, or glorious Dignities, which ſuch ſo ingloriouſly blaſpheme.</p>
+            <p>Dignities, that is, Princes, ſays <hi>Beza</hi> upon the place; <note place="margin">Beza in loc. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>i. e. Prin<g ref="char:EOLhyphen"/>cipes, quantum<g ref="char:EOLhyphen"/>vis auguſtâ Ma<g ref="char:EOLhyphen"/>jeſtate praeditos.</hi>
+               </note> and that with this addition, Set off and illuſtrated with the Auguſteſt Majeſty.</p>
+            <p>Theſe are thoſe which he makes the Digni<g ref="char:EOLhyphen"/>ties and Dominions here; and which he calls an Order conſtituted by God himſelf: <note place="margin">
+                  <hi>Ordinem ipſum à Deo conſtitu<g ref="char:EOLhyphen"/>tum.</hi>
+               </note> ſo he ownes the Divine Right of Monarchy.</p>
+            <p>According to that of St. <hi>Peter</hi> and St. <hi>Paul,</hi> 
+               <note place="margin">2 Pet. 2. Rom. 13.</note> the Imperial Powers then in being; as we ſhall ſee more clearly and fully in the Sequel.</p>
+            <p>Theſe he cannot but grant to be of a Celeſti<g ref="char:EOLhyphen"/>al Origine, of Divine not humane Inſtitution. So far we have him with us.</p>
+            <p>And happy for him if here he could have held, and been conſiſtent with himſelf. For he is preſently off; and will have Governments to be, Senators, a Collegue of Medley Magiſtrates, <note place="margin">
+                  <hi>Senatores, ſive aliorum Magi<g ref="char:EOLhyphen"/>ſtratuum Colle<g ref="char:EOLhyphen"/>gium.</hi>
+               </note> in French <hi>Seignieur;</hi> to bring in his beloved Lay-Elders, within the Character of theſe Domini<g ref="char:EOLhyphen"/>ons.</p>
+            <pb n="4" facs="tcp:51919:5"/>
+            <p>
+               <hi>Eſtius</hi> flies higher, <note place="margin">Eſt. in loc.</note> and would transfer it to An<g ref="char:EOLhyphen"/>gels, the heavenly Powers, the better to evade all earthly; wherein, Enthuſiaſt-like, Papiſt and Schiſmatick, the Foxes and Firebrands, are well link'd together.</p>
+            <p>The vulgar of the Romaniſts reads that of St. <hi>Peter</hi> (one would bleſs himſelf how,) <hi>Sectas non metuunt introducere,</hi> Strange ſort of introdu<g ref="char:EOLhyphen"/>ction! ſo conſtruing <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, merely according to their own opiniatriment.</p>
+            <p>And thus the Rhemiſts, that they may turn all upon the Proteſtants. For ſo I find in their Notes upon theſe words, <hi>Deſpiſe Dominion,</hi> ſuch be Hereticks (and we know who are ſo in their Kalendar) that will not be ſubject to any Supe<g ref="char:EOLhyphen"/>riour; of which kind, in blaſpheming the ſu<g ref="char:EOLhyphen"/>preme ſpiritual Magiſtrate, are the Prote<g ref="char:EOLhyphen"/>ſtants. <note place="margin">Fulk. in loc.</note>
+            </p>
+            <p>There they think they come home to us; and I think Dr. <hi>Fulke</hi> comes home to them in this return, Such an Heretick, nay worſe than Heretick, is Antichriſt the Pope; which will not be ſubject to any Superior, no not the De<g ref="char:EOLhyphen"/>crees of a General Council, though himſelf has own'd its authority. As <hi>Martin</hi> the V. that of <hi>Conſtance,</hi> and <hi>Eugenius</hi> the IV. that of <hi>Baſil;</hi> yet both of them refuſed to conform themſelves to their Decrees, when they came to determine
+<pb n="5" facs="tcp:51919:5"/> that ſuch a Council ſhould ſuperſede his Holi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Such an Heretick is he that advanceth himſelf above all that is called God, as St. <hi>Paul</hi> averrs; <note place="margin">2 Theſſ. 2.4.</note> and ſo does perfectly deſpiſe all Dominion, be<g ref="char:EOLhyphen"/>ſides his own inſufferable uſurpation: And blaſ<g ref="char:EOLhyphen"/>pheme Majeſty with the vileſt of all indig<g ref="char:EOLhyphen"/>nities, when he arrogates to himſelf to deprive Kings of that Dominion which they have, and ever had by inviolable ſucceſſion; and ſo impe<g ref="char:EOLhyphen"/>riouſly to diſcharge Subjects of all loyalty and homage to their Sovereigns. As (ſays <hi>Beza</hi>) did <hi>Julius</hi> the IV. to a Neighbouring King then, meaning, doubtleſs, King <hi>Henry</hi> the VIII. and <hi>Pius</hi> the V. to our Sovereign Lady Queen <hi>E<g ref="char:EOLhyphen"/>lizabeth.</hi>
+            </p>
+            <p>In ſhort, ſuch Hereticks are all now with us that would take the Monopoly out of his hand; that do as did the Gnoſticks, and before them the Simonians (as the Apoſtle here has ſo ſigni<g ref="char:EOLhyphen"/>ficantly phras'd it) <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, ſays <hi>Eſtius,</hi> in their own imagination. <note place="margin">
+                  <hi>In imaginatione ſua.</hi> Eſt. in loc.</note>
+            </p>
+            <p>That are tranſported with deluſive Dreams; ſo <hi>Clemens Alexandrinus,</hi> as well as after him <hi>Epi<g ref="char:EOLhyphen"/>phanius</hi> and <hi>Oecumenius</hi> refer it to their abſurd, blaſphemous phantaſms,</p>
+            <p>That have all their ſenſes ſeal'd in profoundeſt ſlumber, as <hi>Beza</hi> does expreſs it. <note place="margin">
+                  <hi>Senſus omnes al<g ref="char:EOLhyphen"/>tiſſimo veterno ſopitos.</hi> Be<g ref="char:EOLhyphen"/>za in loc.</note>
+            </p>
+            <pb n="6" facs="tcp:51919:6"/>
+            <p>According to that of the Prophet <hi>Iſaiah,</hi> upon whom the Lord has made a full effuſion of the Spirit; but 'tis the Spirit of ſlumber, nay worſe than ſo, of deep ſleep. Which he threatens as the greateſt of Judgments that can befall any perſon or people in the World. <note place="margin">Iſai. 29.10.</note>
+            </p>
+            <p>To rouſe ſuch then a little, who are but too numerous in this Lethargick Age of ours, and that I may the better do it, I ſhall thus endea<g ref="char:EOLhyphen"/>vour to demonſtrate, <hi>viz.</hi>
+            </p>
+            <p>That the two great things which are the true Original of this ſo grand deſpite and defamati<g ref="char:EOLhyphen"/>on in them that contemn Dominion, and in the Apoſtles ſenſe as well as word, blaſpheme Dig<g ref="char:EOLhyphen"/>nities, are Ignorance and Atheiſm; there's the ſource of all.</p>
+            <p>Firſt, Ignorance: So our Apoſtle has here affured us, <hi>Theſe ſpeak evil of the things they know not;</hi> 
+               <note place="margin">Jude 10.</note> that are beyond, that are above them; clear out of their Sphere and Orb.</p>
+            <p>And ſo St. <hi>Peter</hi> in the ſame awakening word, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>They ſpeak evil of the things they under<g ref="char:EOLhyphen"/>ſtand not,</hi> 
+               <note place="margin">2 Pet. 2.12.</note> which they do not, cannot ken; that are preterpluperfectly paſt their intelligence; And this makes them go on in the way of <hi>Cain,</hi> that murtherous one, (for there is worſe murther of the tongue and Pen, than any of the hand;) <note place="margin">
+                  <hi>Dei Epiſcopos linguae gladio jugulaſtis, fun<g ref="char:EOLhyphen"/>dentes ſanguinem non corporis, ſed honoris.</hi> Optatus contra Parmenianum, l. 2. p. 72.</note>
+               <pb n="7" facs="tcp:51919:6"/> and run on ſo raſhly and precipitantly as if they would outrun their Coryphaeus <hi>Corah,</hi> in that con<g ref="char:EOLhyphen"/>tradiction which ſhall be as (if not more) fatal to them without repentance, in a deeper abſor<g ref="char:EOLhyphen"/>ption than it was to him.</p>
+            <p>This is that which makes them to eſpouſe ſo many mean and inferior apprehenſions of thoſe Dominions that are ſo very high, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, elevated above all on Earth; <note place="margin">Rom. 13.3. 1 Pet. 2.12.</note> the Dignities that are ſo ſacred, high as Heaven.</p>
+            <p>The Caſe is ſo plain that nothing can be more. The main, and as to moſt, the only cauſe why the feculent part of Mankind a<g ref="char:EOLhyphen"/>mongſt us do ſo much ſleight and thwart the Sovereign Powers, is their egregious and, as to ſome, ſtupendous ignorance, if they would but be ſo ingenuous, nay commonly honeſt, as to acknowledge it.</p>
+            <p>'Tis chiefly, if not only, becauſe they do not, or (which is infinitely more for their diſpa<g ref="char:EOLhyphen"/>ragement) will not know what indeed and truth they are in themſelves, and ought to be in our repute.</p>
+            <p>When the Old Roman <hi>Antony</hi> (as if the fa<g ref="char:EOLhyphen"/>tality of an awkard humour did attend that Name) ſquibb'd at the Study of the Civil Law, withal acknowledging his own no great accura<g ref="char:EOLhyphen"/>cy in it, the then Oracle of that and all Elo<g ref="char:EOLhyphen"/>quence
+<pb n="8" facs="tcp:51919:7"/> ſaid, That by the one he had made ſome ſatisfaction for the other: 'Twas <hi>Cicero,</hi> as himſelf has told us. <note place="margin">De Orat. lib. 1.</note>
+            </p>
+            <p>Well if ſuch would learn at laſt before it be too late to make ſome (though ſuch, Heaven knows, is ſmall reparation) for thoſe other<g ref="char:EOLhyphen"/>wiſe irreparable injuries they have done, there where their <hi>ALL</hi> cannot make reſtitution.</p>
+            <p>No wonder in the leaſt if a bright and pier<g ref="char:EOLhyphen"/>cing Ray affect a weak and wateriſh eye, <hi>U<g ref="char:EOLhyphen"/>rit enim fulgore ſuo,</hi> as the Naturaliſt ſays.</p>
+            <p> 
+               <note place="margin">Still in refe<g ref="char:EOLhyphen"/>rence to <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> here, and in S<hi rend="sup">t</hi> 
+                  <hi>Peter.</hi>
+               </note> And becauſe theſe Dignities and Dominions bear ſuch beams of brightneſs in themſelves, this makes them ſuch motes as they are in the eyes of others, thoſe Birds of Night, (though ſcarce Athenian ones) that can't endure the ſplendour of this Day. The Rays of Majeſty which is ſo Divine a thing in it ſelf, cannot but dazzle ſuch ill-affected eyes as theirs; and that makes it ſo troubleſome to them, and them to it, as of late they have been.</p>
+            <p>And therefore what fair Maſquerade ſoever men have now to put upon the fouleſt of facts, the ſecret undermining, and withal too open ſcandalizing of our Governours and Govern<g ref="char:EOLhyphen"/>ment both in Church and State, which have been ever ſince the gracious Reformation, ſo glorious in all the Chriſtian World, (and begin now to be
+<pb n="9" facs="tcp:51919:7"/> ſo, amongſt the remoter Infidels and Pagans) doubtleſs the deſign of ſuch infamous Per<g ref="char:EOLhyphen"/>ſons is chiefly, if not only this, That amongſt the blind Mobile they may ſeem to be ſome<g ref="char:EOLhyphen"/>thing, when really they are nothing but in their own too great, and others as little eſtimate.</p>
+            <p>According to that Adage, <hi>Inter caecos luſcum,</hi> A purblind Perſon, though a Cypher in himſelf, may make a conſiderable Figure with them that are ſtark blind; nay, paſs for a Prince amongſt the People, as well as thoſe of <hi>Corah</hi>'s Aſſociation. <note place="margin">Numb. 16.9.</note>
+            </p>
+            <p>And certainly, if ever knowledge and thoſe whom the eternal Wiſdom has conſtitu<g ref="char:EOLhyphen"/>ted to be the laſting Conſervators of it, <note place="margin">Mal. 2.7.</note> (<hi>for the Prieſts lips ſhould preſerve knowledge, and all the people ſhould ſeek the Law at his mouth,</hi> the great Goſpel-Law of their greateſt Duty to<g ref="char:EOLhyphen"/>wards God and the King, for which <hi>he</hi> is ſent to be <hi>the Meſſenger of the Lord of Hoſts to them;</hi>) I ſay, if ever the knowledge, theſe no<g ref="char:EOLhyphen"/>tices, were at any time more requiſite than o<g ref="char:EOLhyphen"/>ther, now certainly they are moſt apparent<g ref="char:EOLhyphen"/>ly ſo: when we have ſo many amongſt our ſelves, that by a more ſtupid than ſubtil ſort of ſophiſtry, attempt to wrangle us not only out of our ſenſes, but (what is infinitely far more valuable in it ſelf, and ſhould be ſo to
+<pb n="10" facs="tcp:51919:8"/> us) our Religion alſo: (The beſt the World ever had, or is like to have) which we de<g ref="char:EOLhyphen"/>rive not only ever ſince, but from our Saviour himſelf, the cleareſt Current. And that by a ſuperfoetation of Religions, which they would introduce; ſuch Principles and Pra<g ref="char:EOLhyphen"/>ctices as are perfectly and eternally abhorrent, not only to the thing but very Name and Notion of all true Religion, a Name too ſa<g ref="char:EOLhyphen"/>cred to be ſo prophan'd, and thing too pure to be ſo defil'd, (as of latter days it has been) with any thing of Sedition, Privy Conſpiracy, much leſs open Rebellion, as well as falſe Doctrine, Hereſie and Schiſm, the moſt daring contempts of God's holy Word and Command<g ref="char:EOLhyphen"/>ment that can be contrived in all the World; from which all that are not wholly given up to hardneſs of heart, cannot but pray, Good Lord deliver us.</p>
+            <p>'Twould be thought an odd way to reform and illuminate the Structure by damming up its lights; juſt like that of our late bleſt Re<g ref="char:EOLhyphen"/>formades, Down with the Clergy to advance piety, and with the Univerſities only for the ſake of learning: ſo with the ſupreme, and after that ſobordinate Magiſtracy, Level all to exalt the little <hi>Achitophel,</hi> with his Aſſociators great policy, but greater pride, vain-glory,
+<pb n="11" facs="tcp:51919:8"/> hypocriſie, envy, hatred, malice, and all man<g ref="char:EOLhyphen"/>ner of uncharitableneſs. The true Church-definition which our Litany will afford us of thoſe falſe Anti-Church-Proteſtant-Diſſenters, who have been ſo buſie and capricious every where of late amongſt us; buoy'd up by ſome like him in <hi>Rome</hi> call'd <hi>Ennatus;</hi> who being very old, but withal very mutinous and aſpiring; <hi>Adrian</hi> being told that he was dead, fell into a very pleaſant humour, and ſaid, He could not but admire how he could tend to dye.</p>
+            <p>Well it would be for the World if ſome ſuch Boutefeaus could find leiſure at the laſt to pay that Debt to the King of Terrours, which they have not yet done to the King of greateſt (I dare not ſay too great) mer<g ref="char:EOLhyphen"/>cies.</p>
+            <p>I read of the States of <hi>Mittellene,</hi> that de<g ref="char:EOLhyphen"/>ſigning a revenge at the moſt exquiſite rate upon ſome they had an everlaſting pique a<g ref="char:EOLhyphen"/>gainſt, <note place="margin">Aelian Var. Hiſt. lib. 3.</note> becauſe they would not conform them<g ref="char:EOLhyphen"/>ſelves to their Republick-Conſtitutions, (or in plain Engliſh turn Commonwealths men) they impoſed this penalty as the ſevereſt they could poſſibly invent to inflict upon them, <hi>viz.</hi> that their Children ſhould not go to School, or have any kind of education to<g ref="char:EOLhyphen"/>wards
+<pb n="12" facs="tcp:51919:9"/> any thing of that which we call hu<g ref="char:EOLhyphen"/>mane (though to more than a good many it is barbarous) learning; the effects of which, they know, would be moſt fatal.</p>
+            <p>Therefore alſo was the Apoſtate <hi>Julian</hi>'s Per<g ref="char:EOLhyphen"/>ſecution accounted more incomparably cruel than that of <hi>Diocleſian;</hi> though leſs bloudy, yet more barbarous: becauſe by ſhutting up the Chriſtian Schools, they put out the eyes of their ſouls. Which ſome would make us believe is the beſt way to make men illuminate at a greater rate than ordinary, to ſee more and better than all the World beſides.</p>
+            <p>And what is like to be our fate in this regard, if another Age ſhould veer about as this has done, the Omniſcient only knoweth.</p>
+            <p>The Heatheniſh (I had almoſt ſaid Hel<g ref="char:EOLhyphen"/>liſh) Education of but too many (and ſome of them none of the meaneſt Babes we have amongſt us) bodes very little leſs than Barba<g ref="char:EOLhyphen"/>riſm, and that in the ſaddeſt and direſt Ab<g ref="char:EOLhyphen"/>ſtract.</p>
+            <p>And our Children may be ſhrewdly put to it to pray that of the holy Pſalmiſt in a more ſorrowful ſenſe than we, (though ſome of us have known ſeverity enough) That our great Maſter would teach our Senators wiſdom. <note place="margin">Pſal. 105.22.</note> There's like, God knows, to be but too much
+<pb n="13" facs="tcp:51919:9"/> need on't;—<hi>Deus omen!</hi> Heaven in its com<g ref="char:EOLhyphen"/>paſſion towards them, as well as us and ours, avert it!</p>
+            <p>
+               <hi>Socrates</hi> hearing that one of his Scholars was very induſtrious to have a Statue (which he was never like to arrive to) made as like himſelf as might be, told him ſmartly, That he found him very much concern'd that the Stone ſhould be made like him, but not at all that himſelf ſhould not become like the Stone: Which was the moſt diſconſolate reſem<g ref="char:EOLhyphen"/>blance, and ſuch an one as needs no Applicati<g ref="char:EOLhyphen"/>on, but of ſome to themſelves.</p>
+            <p>To be ſuret his is the Devil's grand deſign, ever was and will be ſo, to muzzle up men in profound ignorance of God and themſelves, and as contemptuous alſo (next to God) of their Superiors; and then there needs no more to make them his Devotees for ever.</p>
+            <p>Like a crafty Thief or Setter he draws them aſide into ſome dark and uncouth paſſage, ſome cunning Corner, Conventicle or Cabal; and there robs them of the beſt of Treaſures, that of their Allegiance towards God, and man for the Lord's ſake. <note place="margin">1 Pet. 2.13.</note>
+            </p>
+            <p>He ſhuts the eyes and ſtops the ears from giving entertain to any thing of ſound Do<g ref="char:EOLhyphen"/>ctrine; and then opens it to what is corrupt,
+<pb n="14" facs="tcp:51919:10"/> perverſe, rebellious, as the only ſaving Goſpel-Truths.</p>
+            <p>He and his Factors go out like Beaſts of prey in the Night, <note place="margin">John 11.10.</note> though of latter days with us their impudence as well as ignorance (the two prime accompliſhments amongſt them) have dar'd with <hi>Abſolom</hi>'s brutality to ſtare the Sun it ſelf in the face, <note place="margin">2 Sam. 16.22.</note> as if they would outvie, and at the laſt extinguiſh it; and then bring in with the greater triumph thoſe dam<g ref="char:EOLhyphen"/>nable Doctrines and practices the Apoſtle ſpeaks of. <note place="margin">1 Tim. 4.2,3. 2 Tim. 3.1,2. to ver. 9.</note>
+            </p>
+            <p>Which, would God they were confin'd with<g ref="char:EOLhyphen"/>in the compaſs of the Romiſh Church; and that ſome who would be vogu'd the beſt of Proteſtants, and moſt innocent of his Majeſties Subjects, were here Diſſenters; and then they need not fear a proſecution.</p>
+            <p>Such inſinuating Serpents (as our Saviour ve<g ref="char:EOLhyphen"/>ry frequently calls the viperous Brood they come of) <note place="margin">Matth. 23.33.</note> that ſpit ſo much of their venome every where againſt our Government eſtabliſh<g ref="char:EOLhyphen"/>ed by Law; <note place="margin">Gen. 3.1. to 6.</note> and would (as the Devil in their ſhape) <note place="margin">2 Cor. 11.3.</note> promote an Apoſtaſie and Rebellion, next fatal to that firſt; (as we know by a coſtly experiment they too lately did, and had it not been moſt miraculouſly prevented, had <hi>tantum non</hi> done it again paſt all retrieve.)</p>
+            <pb n="15" facs="tcp:51919:10"/>
+            <p>They love to lye in the ſhade, under any ſort of Umbrage, though it be but a very thin and ſleighty one; when ſuch Umbrella's would be<g ref="char:EOLhyphen"/>come a Bantamite better than a Chriſtian.</p>
+            <p>And they that are decoy'd by them into the greateſt of indignities they can deviſe to do to theſe Dominions, the moſt unnatural as well as diſingenuous, not only of defiance, but deſpight againſt their genuine Liege Lord; do therefore (as the Light himſelf hath told us) <hi>love</hi> the <hi>dark<g ref="char:EOLhyphen"/>neſs rather than</hi> the <hi>light, becauſe their deeds are</hi> ſo ſu<g ref="char:EOLhyphen"/>perlatively <hi>evil:</hi> 
+               <note place="margin">John 3.19,20.</note> that ſo they may be beyond all capacity, not only of an Evangelical Converſi<g ref="char:EOLhyphen"/>on (which is ſo great a rarity with them) but ſo much as a Legal Conviction, which ſome, 'tis to be fear'd, dread more than damnation.</p>
+            <p>
+               <hi>Xerxes,</hi> as <hi>Herodotus</hi> reports, had ſo ſtrange and unaccountable an affection for the Plane-tree, which is ſignificant for nothing at all but ſhade, that he was very curious and enormouſly extra<g ref="char:EOLhyphen"/>vagant in his expences for beautifying and adorn<g ref="char:EOLhyphen"/>ing of it. Which fond fancy in ſo great a Per<g ref="char:EOLhyphen"/>ſon, does hugely well reſemble that fonder one in thoſe, who of later days have been ſeduced from and againſt that, as ſacred as it is ſolemn, thing, call'd Allegiance: <note place="margin">Eccleſ. 8.2,3,4.</note> Which the Oath of God is upon them for; and that not only ſingly, but, it may be, more than doubly and trebly ſo.
+<pb n="16" facs="tcp:51919:11"/> And, believe it, ſuch a Bond it is, as the wiſeſt of men thought could not be eaſily broken. <note place="margin">Eccl 4.12.</note> 'Tis not a tye of Law alone, but one of the greateſt Goſpel-Obligations that can be quoted.</p>
+            <p>And yet how unconcernedly we ſee men drawn from that by the Spirit of errour and pro<g ref="char:EOLhyphen"/>phaneneſs, and withal (which is the worſt of the two evils, this being Prompter and Promo<g ref="char:EOLhyphen"/>ter unto that) the prophanity, ignorance and er<g ref="char:EOLhyphen"/>rour of their own Spirits. As if they were re<g ref="char:EOLhyphen"/>ſolv'd to anticipate their damnation, could not be at it ſoon enough, and ſo muſt ride Poſt up<g ref="char:EOLhyphen"/>on this and ſuch like Errands, to meet it in that way which moſt infallibly will lead to that very fatal end at laſt, of thoſe who will not <hi>fear the Lord and the King,</hi> but <hi>meddle with them that are gi<g ref="char:EOLhyphen"/>ven to change.</hi> 
+               <note place="margin">Prov. 24.21,22.</note>
+            </p>
+            <p>No time or pains, coſt or care, but they will as adventurouſly as careleſly expend up<g ref="char:EOLhyphen"/>on the forbidden Tree, not of Knowledge and Life, but of ignorance and death; that has nei<g ref="char:EOLhyphen"/>ther Fruit nor Flower, only 'tis hugely grown, very ſpaciouſly ſpread; caſts, I cannot ſay, a good ſhadow ſo properly as the inverſion; for 'tis only the ſhadow of good: like that of the Cypreſs, ſaid to be, <hi>Gravis Umbra,</hi> a Doleful Shade; nay, worſe and ſadder ſtill than ſo, 'tis <hi>Umbra Mortis,</hi> a Deadly One.</p>
+            <pb n="17" facs="tcp:51919:11"/>
+            <p>Yet they as thoſe that <hi>Pliny</hi> has told us of, <hi>Tributum &amp; pro umbrâ pendent;</hi> 
+               <note place="margin">Nat. Hiſt. lib 12.</note> That they will purchaſe at any ſort of rate, with the utmoſt hazzard of their lives and fortunes, which brings them to, and keeps them in the Valley of the ſhadow of Death, for ever after.</p>
+            <p>And they ſhall be luſtily paid for their pains, that hold them in invincible ignorance, and as inſuperable obſtinacy as to all Duty, which they cannot but own themſelves to ſtand ſo ſtrictly and unacquittably indebted in, to their ſuperiours, by all bonds of Nature, Con<g ref="char:EOLhyphen"/>ſcience, Law, Goſpel, Reaſon and Religion, which is the higheſt, the moſt refin'd and ſub<g ref="char:EOLhyphen"/>limated reaſon.</p>
+            <p>I mean as here and elſewhere, <note place="margin">1 Tim. 2.1,2,3. Tit. 3.1,2. 1 Pet. 2.13,14. to ver. 18.</note> the Apoſtle does ſo frequently and as fervently inculcate, <hi>viz.</hi> their duty towards theſe Soveraign Domi<g ref="char:EOLhyphen"/>nions, and Honour to theſe ſublimeſt of Dig<g ref="char:EOLhyphen"/>nities. Which ſhall never, can never be diſ<g ref="char:EOLhyphen"/>counted, but will be reckon'd at the deareſt rate imaginable, and paid for too, to the very utmoſt Doit, in that woful place, <note place="margin">2 Pet. 2.4. Jud. v. 6.</note> where there will be no liberty, but what Eternal Chains ſhall afford, nor property, but only indignati<g ref="char:EOLhyphen"/>on and wrath, <note place="margin">Rom. 2.8,9.</note> Tribulation and Anguiſh to them that are everlaſtingly contentious, as are the Troublers of our <hi>Iſrael,</hi> and do not, will
+<pb n="18" facs="tcp:51919:12"/> not obey either for Wrath or Conſcience ſake, but are deſperately bent to run the Eternal haz<g ref="char:EOLhyphen"/>zard, as well as Temporal. Our Saviour tells their Brethren the <hi>Sadduces</hi> (for theſe act as if they did disbelieve a Reſurrection as did thoſe,) who were as notorious and recorded Rebels as they were Schiſmaticks; ſo we find from ſeveral Authors, and <hi>Joſephus</hi> himſelf, who being a <hi>Jew,</hi> would not be too ſevere upon them.</p>
+            <p>Truth it ſelf tells them plainly, <hi>You do err, not knowing the Scriptures:</hi> 
+               <note place="margin">Mat. 22.29.</note> their ignorance in the Scriptures, in that ſober ſenſe which they ought duly to be rendred in, is that which renders them ſo obnoxious to this worſt of errours, deſpiſing Dominion, and defaming Dignities.</p>
+            <p>Not knowing the Scriptures, and the Power of God, in that Power and Dignity, which himſelf in his all-wiſe Soveraignty, has con<g ref="char:EOLhyphen"/>ferr'd upon Kings and Princes, by inſtances that are no leſs than innumerable in the Old Teſtament, From the Patriarchs and Prophets; and in the New from our Bleſſed Lord and his Apoſtles.</p>
+            <p>Not knowing the purport of that Promiſe made perſonally by God himſelf, <note place="margin">Gen. 17.1,2,3.</note> ſo early in the World to <hi>Abraham</hi> the Grandfather of the faithful as the higheſt honour and happineſs that could poſſi<g ref="char:EOLhyphen"/>bly attend him and his Family, <hi>viz. That
+<pb n="19" facs="tcp:51919:12"/> Kings ſhould come out of him;</hi> out of his Loins or Thigh (as the Holy Ghoſt has ſeen good to phraſe it) that is deſcend lineally from him, by the unalterable, and indefeatable right of Inheritance, till it reach even to the King of Kings himſelf.</p>
+            <p>This was part of that Sacred Covenant which God Almighty did then ſo ſolemnly ſtipulate between himſelf, and him: And that for an Everlaſting Covenant, <note place="margin">Gen. 17.6,7.</note> as there he ſets that pecu<g ref="char:EOLhyphen"/>liar remark upon it, <hi>in perpetuam rei memoriam,</hi> not only as to his Perſon but Poſterity, to ſtand up<g ref="char:EOLhyphen"/>on record for them, that great and numerous Train that ſhould iſſue from him, as the great<g ref="char:EOLhyphen"/>eſt ſecurity as well as reputation they could have; which primely did conſiſt in this, name<g ref="char:EOLhyphen"/>ly, <hi>That the Scepter ſhould not depart from Judah,</hi> (as that Covenant is afterward re-ratified with <hi>Jacob</hi>) <note place="margin">Gen. 49.10.</note> 
+               <hi>nor a Law-giver</hi> (for ſo is a King, you ſee clearly in Gods own Eſtimate and Or<g ref="char:EOLhyphen"/>dination) <hi>untill Shilo,</hi> the great Soveraign, <hi>come:</hi> And unto him ſhall the Collection and Submiſ<g ref="char:EOLhyphen"/>on of the People be, and that for ever, no in<g ref="char:EOLhyphen"/>terciſion is allow'd of.</p>
+            <p>'Tis an Eternal Law, from the firſt to the laſt, <hi>Suprema Lex,</hi> that of the Legiſlative Power, wholly and ſolely to have its reſiance there where the Scepter is; like that of the <hi>Medes</hi> and
+<pb n="20" facs="tcp:51919:13"/> 
+               <hi>Perſians,</hi> never to admit a repeal. <note place="margin">Dan. 6.8,15.</note> And the <hi>Salus Populi</hi> only too conſiſts in that, if they could once arrive to ſo much ſenſe to ſee it, then ſeeing might be believing with them.</p>
+            <p>Not knowing the Scriptures, what vaſt af<g ref="char:EOLhyphen"/>fluences of Dignity as well as Dominion, <note place="margin">1 Sam. 15.24,25.</note> the infinitely Wiſe and Holy God was pleas'd gra<g ref="char:EOLhyphen"/>ciouſly to confer in the Original of Kingly Go<g ref="char:EOLhyphen"/>vernment in <hi>Iſrael,</hi> upon <hi>Saul</hi> his own imme<g ref="char:EOLhyphen"/>diate Succeſſour there. And afterwards accumu<g ref="char:EOLhyphen"/>late upon <hi>David, Solomon,</hi> and their Succeſſours in that Kingdom. <note place="margin">2 Sam. 5.10,11. 1 Kings 3,4,5,6,7,8,9.10. 2 Chron. 1,2,3,4,5,6,7,8,9.</note>
+            </p>
+            <p>Not knowing what that ſo much celebra<g ref="char:EOLhyphen"/>ted Preacher as well as King, ſo frequently does reiterate, by Gods own ſpecial inſpirati<g ref="char:EOLhyphen"/>on, <note place="margin">Pro. 16.10.14.15. 19.12. 20.2.8. 22.11. 24.21.22. 29.4. 14.30.31. Againſt whom there is no ri<g ref="char:EOLhyphen"/>ſing up: and whoſo provo<g ref="char:EOLhyphen"/>keth him to anger, ſinneth againſt his own ſoul.</note> as to the Honour, Favour, Frowns, and diſpleaſure of a King in terms ſo highly much emphatical, that nothing ever was or can be more: Each of which he renders ſo greatly and incomparably conſiderable, that nothing under Heaven can ever come in competition with them. <note place="margin">Eccleſ. 8.2,4. I Counſel thee to keep the Kings Com<g ref="char:EOLhyphen"/>mandment and that in regard of the Oath of God; whoſo keep<g ref="char:EOLhyphen"/>eth it ſhall feel no evil.</note> 
+               <hi>Where the word of a King is, there is Pow<g ref="char:EOLhyphen"/>er, and who may</hi> (ſo much as) <hi>ſay to him, What doſt thou?</hi> As if his very word were a Law: ſo as to his commands. And for his threatnings, the Wrath of the King is as the Roaring of a Lyon, carries terror and execution with it: to make us the more conſcientious to fear him in the one, and
+<pb n="21" facs="tcp:51919:13"/> obey him in the other, and in neither to dare to diſregard him in the leaſt, as we reſpect our wel<g ref="char:EOLhyphen"/>fare there, or here. This, and infinitely more he gives in charge, in ſuch weighty words as do pre<g ref="char:EOLhyphen"/>ponderate all that can poſſibly pretend againſt it; and that in places more than can be enumerated. Be pleaſed to take one for all, as that which ſeems to have more peculiar affinity to the buſineſs of the Text.</p>
+            <p>Where he gives that tremendous Prohibition, <note place="margin">Eccl. 10.20.</note> 
+               <hi>Curſe not the King</hi> (the word there ſignifies the ſame ſtill with this here, namely to blaſpheme) <hi>no not ſo much as in thy thoughts,</hi> or Conſcience, the moſt cloſeted and retir'd corner of them, thy very Bed-chamber, where thou mayſt ſup<g ref="char:EOLhyphen"/>poſe thy ſelf moſt ſecret, and withal ſecure.</p>
+            <p>See how he dares men to it at their higheſt peril; for ſays he there, a Bird of the Air, that is, the Winged Angels (ſays the Holy Fa<g ref="char:EOLhyphen"/>ther, <note place="margin">Hieron. in loc.</note> which in <hi>Zachary</hi> are ſaid to take their flight over all the Earth) <note place="margin">Zach. 1.10,11.</note> ſhall carry the voice, and that which hath Wings (which therefore they are ſo ſignificantly pourtray'd with) ſhall tell the matter.</p>
+            <p>They are ever ready to be upon the Wing to take their ſeveral circuits over all the World. They hear when Treaſon and Sedition is but whiſper'd in the cloſeſt, and moſt cunningly
+<pb n="22" facs="tcp:51919:14"/> contriv'd Cabal, and give intelligence of it in the High Court of Heaven; much more when it comes to be Printed, to be Preach'd, <note place="margin">Mat. 10.27.</note> to be vogued <hi>in altiſſimis,</hi> in the high places of the ſtreets, and preach'd upon the houſe tops, as our Saviour ſpeaks; not only creeps into the Preſs, but mounts the Pulpit, as of later days it did, and God grant it may never, never do ſo again.</p>
+            <p>They err, not knowing the Scriptures of the Prophet as well as Preacher; where God is gra<g ref="char:EOLhyphen"/>ciouſly pleaſed by him to promiſe, as the Peoples moſt peculiar Happineſs and Priviledge, <note place="margin">Eſa. 49.23.</note> as well as their Princes Honour and Prerogative, That Kings ſhould be their Nurſing Fathers and Queens their Nurſing Mothers, to ſupport them in their tender and indulgent, their kind as well as potent and capacious Arms. 'Tis He that hath made them, and not themſelves, to be <hi>Patres Patriae,</hi> National Fathers; and they that make it their buſineſs ſo unnaturally, as well as undu<g ref="char:EOLhyphen"/>tifully to expoſe them, do but hereby expoſe themſelves to that ignominious curſe of the ſhameleſs <hi>Cham,</hi> 
+               <note place="margin">Gen. 9.24.</note> for diſplaying their Fathers nakedneſs, in that irreverent and indecent man<g ref="char:EOLhyphen"/>ner that their brutal Libels (too barefac'd every where amongſt us) do.</p>
+            <p>And they alſo that mouth'd out a Sedition,
+<pb n="23" facs="tcp:51919:14"/> which is their own Liberty and Property, at that tumultuous rate as they have lately done, have but hereby offer'd themſelves and theirs to the dint of Divine Vengeance, <note place="margin">Gen. 9.25.</note> in the Let<g ref="char:EOLhyphen"/>ter of <hi>Canaan</hi>'s Curſe, to be made Servant of Ser<g ref="char:EOLhyphen"/>vants to him that ſo has ſuperciliouſly ſtil'd him<g ref="char:EOLhyphen"/>ſelf, when they will not be true and loyal Sub<g ref="char:EOLhyphen"/>jects to their only true and rightful Soveraign.</p>
+            <p>Not knowing, that is, not owning that of him who was more than a Prophet, <note place="margin">Mat. 22.19,20. Mark 12.16,17. Luk. 12.24,25.</note> the great deciſion and determination he has made for himſelf and us, in all ſucceeding ages of the World. The laſting, everlaſting Precept, as well as exemplar, he has given for rendring to <hi>Caeſar</hi> the things that are <hi>Caeſar</hi>'s, as duly and exactly, as carefully and conſcientiouſly as to God the things that are Gods; no difference that he who is God bleſſed for evermore has made between them.</p>
+            <p>When the Tribute-money was demanded of him, <note place="margin">Mat. 17.24. to <hi>v.</hi> 28.</note> though he was a Prince, and they that were his Attendants free, becauſe not ſtrangers, but Children of the Kingdom, as himſelf aſ<g ref="char:EOLhyphen"/>ſures us; yet he ſtands not upon their Pri<g ref="char:EOLhyphen"/>viledge and his own Prerogative, as moſt juſt<g ref="char:EOLhyphen"/>ly he might have done. Though he was the legal Heir of that Kingdom, by a lineal deſcent from <hi>David,</hi> yet he would pay Tribute to the
+<pb n="24" facs="tcp:51919:15"/> 
+               <hi>Roman</hi> Emperour, and work a ſignal miracle deſignedly for doing of it, rather than <hi>Caeſar</hi> ſhould not have his demand, and that by ar<g ref="char:EOLhyphen"/>bitrary impoſition, as is moſt apparent.</p>
+            <p>They know not, <note place="margin">Rom. 13.7.</note> or at leaſt will not own that of the great Apoſtle, <hi>Render therefore to all their dues: Tribute to whom Tribute, Cuſtome to whom Cuſtome, Fear to whom Fear, Honour to whom Honour is due.</hi> And if ever due, to be ſure it is ſo here, where the Apoſtle does ſo importunately inſiſt upon it, as to that homage and ſubjection which is the debt of every ſingle Soul, not any one that is, was, ſhall, or can ever be exempted.</p>
+            <p>And the Reaſon which there he renders for it is moſt irrefragable, becauſe they are the Higher or Superiour Powers, as he expreſsly calls them; <note place="margin">Rom. 13.1.</note> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (a word I cannot eaſily quit) <hi>i. e.</hi> ſuch as have the ſuperiority over all things and perſons, as it does moſt genuinely denote.</p>
+            <p>The Powers that were then are now, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>viz.</hi> the Regal and Imperial, (as before was hinted) then, and ever ſince in being, which he aſſures us is immediately ordain'd of God, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to make the Monarchick Power and our ſubmiſſion to it, a Divine Ordinance.</p>
+            <p>St. <hi>Peter</hi> is more expreſs (if any thing can be ſo) <note place="margin">1 Pet. 2.13.</note> when by him it is entituled <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Crea<g ref="char:EOLhyphen"/>ture, Gods own Creation, that of ſubjection to
+<pb n="25" facs="tcp:51919:15"/> this very Power, which there he does ſo particu<g ref="char:EOLhyphen"/>larly urge to the King in the firſt and higheſt place: ſo both the Apoſtles are moſt punctu<g ref="char:EOLhyphen"/>al, and paſt all contradiction in that aver<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And therefore whoſoever reſiſteth or con<g ref="char:EOLhyphen"/>fronteth that Power; <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 13.2.</note> that ſets himſelf in array againſt it, or would ſet up another in diame<g ref="char:EOLhyphen"/>trical oppoſition to it, (the ſole Soveraign ſingu<g ref="char:EOLhyphen"/>lar Power, which there thoſe, and here this Apoſtle do ſo very particularly fix upon) does as particularly rebel againſt the Ordinance of God, ſo the Apoſtle does perſiſt; and they that are reſolv'd to do ſo in their reſiſtance, he is as po<g ref="char:EOLhyphen"/>ſitively reſolv'd againſt them, that they ſhall receive to themſelves Damnation; not only judgment in this World, (for then it would be <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) but <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, down right Damnation in that to come. They that will not believe it now, ſhall feel it then for ever, in the moſt exqui<g ref="char:EOLhyphen"/>ſite of ſenſible experiments.</p>
+            <p>Therefore is it that he urges that Univer<g ref="char:EOLhyphen"/>ſal Reverence and Veneration due to them from us all, ſo ſmartly and ſeverely, for no leſs than Wrath, if we will not render it for Conſcience ſake. Ay and farther ſtill than ſo, <note place="margin">Rom. 13.4,6.</note> For, for this Cauſe pay you Tribute alſo, as there he does proceed; gives the reaſon of the thing, as
+<pb n="26" facs="tcp:51919:16"/> to theſe Perſons, paſt all diſpute; and that be<g ref="char:EOLhyphen"/>cauſe they are Gods Miniſters to us for good; ſet over us, ſo to be.</p>
+            <p>And certainly the leaſt and cheapeſt Tribute we can offer, or he require, is that of Honour to theſe Dignities, ſubjection to this Dominion; That coſts us nothing is a very light and eaſie, <note place="margin">Rom. 12.1.</note> a moſt reaſonable, and acceptable piece of ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>Hard caſe that men cannot give good words, when no more at preſent is expected thence, whence we can hardly ever hope for any thing of good action; but muſt ſtill be prompted to perpetuate their wonted ways of Diſobedience and Deſpite, to inflame all; to provoke ſtill daily more and more, (as if they had not done more than enough already;) ſad reſolution to be im<g ref="char:EOLhyphen"/>pregnable, and everlaſting, in their impenetra<g ref="char:EOLhyphen"/>bly obdurate humour: Certainly, there are ſof<g ref="char:EOLhyphen"/>ter, ſmoother, and far more decent ways the Scripture does direct them to, if they would obſerve them as that which every Chriſtian man ought to know and believe to his Souls health, as duly as his Creed, and the Commandments.</p>
+            <p>
+               <hi>But they err,</hi> they and their Miſleaders too, <hi>not knowing,</hi> or as if they did not, or elſe would not know <hi>the Scriptures,</hi> where it ſtands writ<g ref="char:EOLhyphen"/>ten in fair and legible Characters; ſo that he
+<pb n="27" facs="tcp:51919:16"/> that runs may read them thus upon. Sacred, Re<g ref="char:EOLhyphen"/>cord for ever: <note place="margin">Act. 21.5. Exod. 22.28.</note> 
+               <hi>Thou ſhalt not ſpeak evil of the Ruler of thy People,</hi> quoted by St. <hi>Paul</hi> in Goſ<g ref="char:EOLhyphen"/>pel times from that of the Law, <hi>Thou ſhalt not revile, or Blaſpheme the Gods;</hi> ſo they are in his account, whatever they are in ours; <note place="margin">Pſal. 82.6.</note> we have an <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for it; I have ſaid you are Gods, and all of you Children of the Moſt High, ſo that he muſt needs be the Father and Original of them.</p>
+            <p>The word there in the Hebrew, is ſtill as conſonant as ever to this in the Greek, where we are forbid to revile thoſe Gods, or curſe theſe Rulers; an inſeparable Curſe does every where attend it. Let him that likes it; take it to himſelf, and ſee how well he can digeſt it when he comes once deliberately to ruminate upon it.</p>
+            <p>'Tis hard digeſting Poyſon, ſuch eſpecially as has been ſo epidemical in this unexemp<g ref="char:EOLhyphen"/>lar'd Age of ours, wherein the vileſt of men have made ſo little of it, to caſt the greateſt and ſouleſt of aſperſions upon them that bear Divinity about them: Wherein the meaneſt of Mechanicks turn Cenſors of their Soveraigns actions, ſo Critical.</p>
+            <p>That as in <hi>Pompey</hi> the Great 't was thought a crime, becauſe he ſcratch'd his head with one
+<pb n="28" facs="tcp:51919:17"/> finger, ſo they are ready through their malici<g ref="char:EOLhyphen"/>ous ignorance, to make every mole a ſcar, eve<g ref="char:EOLhyphen"/>ry Infirmity a groſs Enormity: And accord<g ref="char:EOLhyphen"/>ingly to paſs their Cenſures; nay, ſadder ſtill than ſo, their ſentence too; and that perhaps a very black and bloody one, upon the greateſt, and the beſt of men; <note place="margin">Pſal. 105.15.</note> their Princes, Prophets, Prieſts, on Gods anointed, whom he has ſo ſtrictly prohibited us to touch, with our impure, unhallowed Hands, Tongues, Pens, under a weighty Penalty, for he that toucheth them, toucheth the Apple of his own eye: <note place="margin">Deut. 32 10. Pſal. 17.8. Zach. 2.8.</note> and that is a very dear, and tender part indeed.</p>
+            <p>Whatever is deſign'd or effected againſt them, he takes it all as offer'd directly at him<g ref="char:EOLhyphen"/>ſelf; <note place="margin">Luk. 10.16.</note> 
+               <hi>He that deſpiſeth you, deſpiſeth me;</hi> believe it, they bid as high as poſſibly they can; they that deſpiſe them and their Government, deſpiſe the Regiment of Heaven, nay, clearly do defi<g ref="char:EOLhyphen"/>ance to God himſelf; when they attempt to have to do with them, they ſhall find at laſt they have to deal with him; <hi>impar congreſſus.</hi>
+            </p>
+            <p>
+               <hi>For by me Kings reign;</hi> 
+               <note place="margin">Prov. 8.15,16. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hagg. 2.23. Jer. 22.24.</note> 'tis God that upholds Kings, not that Golden Scepter as <hi>Xenophon</hi> ſays; They are the Signets of his right hand, as himſelf calls them, which doubtleſs the great Poet had ſome ſenſe of when he ſtiles Kings <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, bred up in the boſom of <hi>Jove,</hi> or rather <hi>Jehovah,</hi> the
+<pb n="29" facs="tcp:51919:17"/> ſame word. Once again, <hi>they err, not know<g ref="char:EOLhyphen"/>ing the Scripture,</hi> which muzzles the mouths of all ſuch Bruits, and ties them up not only from acting but ſpeaking againſt Kings; it will allow of no ſuch thing at all. <note place="margin">Job 34.18.</note> 
+               <hi>Is it fit to ſay to a King thou art Wicked, or to Princes you are ungod<g ref="char:EOLhyphen"/>ly?</hi> Suppoſe they were, ſuppoſe they did ſo, yet the Scripture tells us, it is not fit that we ſhould ſay ſo.</p>
+            <p>Nay, from ſo much as thinking evil of them: 'Tis worth the repetition, <hi>Curſe not the King no not in thy thought.</hi> He that knows the ſecrets of all Hearts will not ſuffer us to harbour ſo much as one ſingle thought againſt them. Not only the Overt Act, but the very thought is Trea<g ref="char:EOLhyphen"/>ſon by the Laws of Heaven that are indiſputa<g ref="char:EOLhyphen"/>ble, that are altogether indiſpenſible.</p>
+            <p>Holy <hi>David,</hi> wiſe <hi>Salomon,</hi> and other Kings, whoſe uncontroulable authority the moſt Holy Scriptures give us ſo ample an account of, did things not to be done, and withal not ſpoken of. They are not blaz'd and blown up and down in the World: Nothing at all ſpoke or thought of, tending to their defamation or diſi<g ref="char:EOLhyphen"/>paragement.</p>
+            <p>No libelling of Kings then, none that durſt to ſpeak evil of Dignities in a ſingle Syllable, all huſht, ſtill and quiet, ſerene, according to
+<pb n="30" facs="tcp:51919:18"/> that Majeſty they had ſo much then, as we have little regard and reverence now for.</p>
+            <p>Which ſhould teach us to do as they did, to hold our Peace whileſt we have it; to ſit down in ſilence, ſobriety and humility: and if we can<g ref="char:EOLhyphen"/>not (or which is worſe, will not) act the Chri<g ref="char:EOLhyphen"/>ſtians part, let us learn at leaſt the <hi>Pythagore<g ref="char:EOLhyphen"/>ons;</hi> go to their School of ſilence, ſeal up our mouths for ever; and let this impreſſion (if we be not as flint to receive, or water to retain none) be made upon them in ſuch indelible Characters, as never to be obliterate, ſtampt with the point of a Diamond, Not to deſpiſe Soveraign Dominion, ſacred Dignities. The Scripture is ſo far from allowing, that it does perfectly abhor all ſuch deportment amongſt men; <note place="margin">Jude v. 9,10.</note> worſe than <hi>Michael</hi> the Arch-Angel would treat the Devil withal in his conteſt with him.</p>
+            <p>Angels that are greater, infinitely far greater in power and might than the greateſt of men, <note place="margin">2 Pet. 2.10,11.</note> bring not railing accuſations as do theſe; that deſpiſe Government. Preſumpruous are they, and ſelf-will'd, moſt prodigiouſly ſo: Nay, not afraid to ſpeak evil of Dignities, which the Apoſtle makes ſuch a very fearful ſin, paſt all ſort of Parallel whatever.</p>
+            <p>For thus St. <hi>Peter</hi> falls in which our Apoſtle here; is as copious alſo as St. <hi>Paul,</hi> in this great
+<pb n="31" facs="tcp:51919:18"/> and neceſſary argument ſpends whole Chapters, <note place="margin">1 Pet. 2. 2 Pet. 2.</note> the ſecond of both his Epiſtles upon it; to preſs obedience to Governours, ſupreme and ſubordinate, to every Ordinance of man; for God's ſake.</p>
+            <p>To the King; therefore call'd <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by an Etymology as true as it is trite: <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>cauſe he is the foundation upon which his Sub<g ref="char:EOLhyphen"/>jects are fixt for their Lives, Eſtates, Laws, Li<g ref="char:EOLhyphen"/>berties, Religion, the grand ſupporter of them all. <note place="margin">Prov. 29.4.</note> And by Wiſdome it ſelf the wiſe King is call'd, <hi>ſtabilimentum Populi,</hi> the Peoples ſet<g ref="char:EOLhyphen"/>tlement, moſt ſatisfactorily and compleat<g ref="char:EOLhyphen"/>ly ſo.</p>
+            <p>To the King as ſupreme; ſo that the Apo<g ref="char:EOLhyphen"/>ſtle you ſee does ſolemnly aſſert the Kings Su<g ref="char:EOLhyphen"/>premacy, <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and makes it to be originally of Di<g ref="char:EOLhyphen"/>vine Right: Hard caſe then if we cannot af<g ref="char:EOLhyphen"/>ford it to be ſo, when ſo it is the Will of God that it ſhould be, as there himſelf expreſly has declar'd it; that we ſhould all of us, duly and devoutly pay that Allegiance which we owe to the King as he is ſupreme: <note place="margin">Eſa. 45.1. Rom. 13.4.</note> And ſeeing all Kings, without diſtinction or reſtriction are Gods Vice-gerents, we ſhould without excepti<g ref="char:EOLhyphen"/>on yield obedience to them, whom by his Pro<g ref="char:EOLhyphen"/>phets he has ſo ſignificantly ſtil'd his anointed, and that <hi>Cyrus</hi> himſelf, and by his Apoſtle, <hi>Nero</hi>
+               <pb n="32" facs="tcp:51919:19"/> and <hi>Tiberius</hi> (if not both) the Miniſters of God, which is worthy of our obſervation.</p>
+            <p>What then will our Deſpiſers and Defamers ſay to this, do they, nay, do they not know theſe Scriptures? or rather do they not wiſh them <note n="*" place="margin">I have ſeen thoſe Chap<g ref="char:EOLhyphen"/>ters of St. <hi>Paul</hi> and St. <hi>Peter,</hi> which preſs obedience to our Gover<g ref="char:EOLhyphen"/>nours, torn out of the <hi>Quakers</hi> Bi<g ref="char:EOLhyphen"/>bles; and an impreſſion of their own, wherein they are wholly left out. Rom. 13.5.</note> out of their Bibles, as they are with ſome, and were out of the Churches in the Uſurpation; where I have ſeen <hi>Fear God</hi> left, though but dimly ſo, and <hi>Honour the King</hi> quite expung'd.</p>
+            <p>Well, let the vileſt of men ſay what they will, do what they can againſt them, theſe are great and fundamental Principles of Faith, as well as Doctrine and Practice, ſtanding ſtable Truths; Firſt of Piety towards God, and next of Honour, Devoir and Duty towards the King; whom next and immediately under God, we all ſtand everlaſtingly oblig'd in Conſcience to and for God to obey. And 'tis not a paſſive, without active obedience that will ſerve to bear us out now, or another day.</p>
+            <p>Though as to true conſcientious (and to give it the Kings own Epithete) ſtedfaſt Loyalty, well grounded, thus fixt upon the Scriptures, a little of that, God knows, goes a great way, as the World has too long gone with us.</p>
+            <p>Yet ſure I am, the Apoſtle makes it a main Maſter-piece of Chriſtianity, when he joyns,
+<pb n="33" facs="tcp:51919:19"/>
+               <note place="margin">1 Pet. 2.17</note> 
+               <hi>Fear God, and honour the King,</hi> ſo indiviſibly together. The greater their guilt that formerly and lately have attempted to make the ſeparation, of what God has made ſo inſeparable.</p>
+            <p>Where there is the one, there will be the other, and without the one there can be nothing of the other. He that is not a good Subject, can<g ref="char:EOLhyphen"/>not be a good Chriſtian; a Rebel can never commence Saint, though their Holy Father dubbs them ſo. This the Scripture does avouch, <note place="margin">Iſa. 40.6. 1 Pet. 1.25.</note> and this we do and dare abide by, being as ſure as the word of our God, which endureth for ever.</p>
+            <p>Thus we ſtand, but thus they fall into er<g ref="char:EOLhyphen"/>rour, willingly and wilfully ſo, not knowing, that is, not regarding the holy Scriptures, but ſtill ſuppreſſing the Truth in unrighteouſ<g ref="char:EOLhyphen"/>neſs; <note place="margin">Rom. 1.18.</note> the Law of God, Goſpel of Chriſt, Laws of the Land; thoſe of more antique and freſher Date; by one of which it ſtands en<g ref="char:EOLhyphen"/>acted to this purpoſe, that whoſoever ſhall de<g ref="char:EOLhyphen"/>fame the Kings Government in Church as well as State, the Doctrine and Diſcipline by Law eſtabliſhed, ſhall thereby incur the ſevereſt of Penalties that can be inflicted.</p>
+            <p>Not knowing, or at leaſt not conſidering the Law of Nature, and that of Nations; though indeed the Civil Law which is hugely copious
+<pb n="34" facs="tcp:51919:20"/> as to all other rights, is more contract in that of Soveraignty; as taking it for granted, that none ſhould dare to contradict it in the leaſt. That leaves Monarchs free, to make their Sub<g ref="char:EOLhyphen"/>jects ſo, more or leſs, according to their own pleaſure; to which that has reſign'd all, as the Scripture does.</p>
+            <p>Not knowing the Laws of common huma<g ref="char:EOLhyphen"/>nity and Civility, which would have taught them better words and things, than ſuch as theſe: <note place="margin">2 Pet. 2.12. Jud. v. 10.</note> But as meer Natural brute Beaſts, made to be taken and deſtroyed, they ſpeak evil of the things and Perſons that they know not.</p>
+            <p>And what they know naturally in theſe things, they continue to corrupt themſelves and others, ſo long till at laſt without Repentance, (and 'tis not an ordinary ſhare will ſerve their turn) they ſhall utterly periſh in their own corruptions, wherewith they ſo deeply have contaminated themſelves, and the unfortunate age they live in.</p>
+            <p>They know not the Scriptures of former ages; the Writings of the Holy Fathers, next to the Holy Writ, to be had in perpetual Venera<g ref="char:EOLhyphen"/>tion; nor the Practice of the Primitive times, how the good Chriſtians then did honour and revere, and only not adore their Kings and Emperours, next and immediately after God,
+<pb n="35" facs="tcp:51919:20"/> they that were in thoſe devouter ages next and immediately after Chriſt. As they in their great and learned Apologies, have regiſtred and vou<g ref="char:EOLhyphen"/>ched to all the World; inſtances from whom, if I ſhould once begin, I ſhould not know when, or where to end. How the Chriſtian Church offered up their daily Devo<g ref="char:EOLhyphen"/>tions for Heathen Emperours; the manner as well as matter of whoſe Prayers for them, is recorded in the greateſt of ſolemnity. <note place="margin">
+                  <hi>Manibus expanſis, quia innocuis, capite nudo, quia erubeſcimus; pre<g ref="char:EOLhyphen"/>cantes ſumus ſemper pro omnibus Impera<g ref="char:EOLhyphen"/>toribus, orbem quietum, vitam lon<g ref="char:EOLhyphen"/>gam.</hi> Tertul. Apol.</note>
+            </p>
+            <p>Whom in their Prayers, and by their Practices, they ever own'd as God does, to be his an<g ref="char:EOLhyphen"/>ointed; let their Practice and profeſſion be what it would, yet <hi>Oleum ſuum defendit Deus,</hi> ſays <hi>Optatus;</hi> Though no defenders but oppoſers of his Faith, God would defend his Unction in them, and upon them <hi>judicio ſuo Deus ſervavit rem ſuam;</hi> They are peculiarly his; ſo he has ever ſtil'd them; and therefore to no man ſingly, nor ſome, or all men collectively to be any ways accountable, for any thing, that at any time, in any way or manner they have done, or can ever do. <note place="margin">
+                  <hi>Quia ſi Peceatum eſt hominis, unctio tamen eſt Divinitatis; ergo, ne teti<g ref="char:EOLhyphen"/>geritis, ne dum Peccatum hominis per<g ref="char:EOLhyphen"/>catitur, &amp; Oleum quod Dei eſt, feri<g ref="char:EOLhyphen"/>atur.</hi> Optat. lib. 2. <hi>p.</hi> 1273.</note>
+            </p>
+            <p>This is Chriſtian Doctrine, and practice, I am ſure; and you may reſt ſufficiently ſecured of it.</p>
+            <pb n="36" facs="tcp:51919:21"/>
+            <p>But alas! ſuch know not what Heathens have ſaid and done in this regard: How to admiration and amazement they have outdone too many of our Modern Chriſtians; the more and greater is the ſhame. <note place="margin">Seneca <hi>de Clem. lib.</hi> 1. <hi>c.</hi> 11. thus de<g ref="char:EOLhyphen"/>ſcribes a King; <hi>ille, ille eſt Spiritus vi<g ref="char:EOLhyphen"/>talis quem tot millia trabunt.</hi> And again, <hi>lib.</hi> 1. <hi>c.</hi> 4. <hi>ille, ille eſt vinculum per quod Reſp. cohaeret: nihil ipſa per ſe futura, niſi onus &amp; praeda, ſi mens illa imperii ſubtrahatur.</hi>
+               </note>
+               <q>
+                  <hi>Prudet haec opprobria Nobis—</hi>
+               </q> They could as if they had it from Scripture ſay, <hi>Timendoſque Reges,</hi> call Dread Soveraign, as well as we; ſhew more fear of the Deity, in the honour due to Dignities and Dominions, than we now; could call their Kings, as the Scrip<g ref="char:EOLhyphen"/>ture has done, The breath of their Noſtrils.</p>
+            <p>So dear they were in their Eſtimate, that it is celebrated of the <hi>Cappadocians,</hi> that when offer'd by the <hi>Roman</hi> Senate to be freed from Kingly Government, They bravely and ge<g ref="char:EOLhyphen"/>rouſly refuſed; telling them in plain terms, That they were ſuch a people as could not live without a King; he was their Life and Soul. Heroick Souls indeed! <note place="margin">
+                  <hi>Heroice repudi<g ref="char:EOLhyphen"/>arunt, illamque gentem ſine Re<g ref="char:EOLhyphen"/>ge ne quidem vivere poſſe.</hi>
+               </note>
+            </p>
+            <p>To conclude this Head with that of the Apoſtle, where he ſpeaks to <hi>Jews,</hi> and I of Jewiſh Chriſtians, <note place="margin">Act. 13.40,41. from Hab. 1.5.</note> 
+               <hi>Beware leſt that come upon you which is ſpoken of by the Prophet, Behold ye deſpi<g ref="char:EOLhyphen"/>ſers and wonder,</hi> and know that without Re<g ref="char:EOLhyphen"/>pentance
+<pb n="37" facs="tcp:51919:21"/> you ſhall aſſuredly periſh, for the Mouth of the Lord hath ſpoken, and nothing elſe can reverſe it.</p>
+            <p>And to give a demonſtration of it, <hi>I will work a work in your days, ſaith the Lord, ſuch a work as you ſhall in no wiſe believe, though a man de<g ref="char:EOLhyphen"/>clare it to you;</hi> ſeeing could not do with ſuch ſtu<g ref="char:EOLhyphen"/>pid creatures, nothing but feeling could ſerve the turn, in irreverſible vengeance.
+<q>
+                  <hi>Diſcite juſtitiam moniti, nec temnere Divos.</hi>
+               </q> Which leads me to give you an account of the other great Origine of this ſo great deſpight and defamation; for alas, ignorance is not all; it riſes higher ſtill; Atheiſm comes in and joyns it's forces in this defiance; wherein they are both equally and eternally engaged, againſt theſe Dignities, whoſe cauſe the Text eſpouſes. <hi>Omne in praecipiti vitium ſtetit,</hi> as the Poet has it. All Monſtrous and Prodigious ſins, con<g ref="char:EOLhyphen"/>centre here in one, and are arrived at their ful<g ref="char:EOLhyphen"/>leſt height, their compleateſt <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and this is the ſad emphaſis of all the reſt that here are inſtanc'd in.</p>
+            <p>That of the Apoſtate Angels, who kept not their Primitive ſtation, but turn'd Rebels againſt Heaven, and ſo are immediatly doom'd to Hell. <note place="margin">Jud. v. 6.7.</note>
+            </p>
+            <pb n="38" facs="tcp:51919:22"/>
+            <p>Thoſe of <hi>Sodom</hi> and <hi>Gomorrha,</hi> that gave them ſelves over to be immerſt in all manner of ſtrange ſtupendous Licentiouſneſs; Likewiſe alſo thoſe <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, filthy dreamers, that are ſo fond in their own irratio<g ref="char:EOLhyphen"/>nal imaginations, which are but Dreams; when by defaming Dig<g ref="char:EOLhyphen"/>nities, they think to dethrone Dominions: <note place="margin">His Majeſties Declaration <hi>April</hi> 8. 1681. <hi>p.</hi> 9. The reſtleſs malice of ill men, who are labouring to poy<g ref="char:EOLhyphen"/>ſon our People; ſome out of fond<g ref="char:EOLhyphen"/>neſs of their old beloved Common-Wealth Principles, and ſome out of anger at their being diſappoin<g ref="char:EOLhyphen"/>ted in the particular deſigns they had for the accompliſhment of their own ambition and greatneſs.</note> Theſe <hi>Plato's redi<g ref="char:EOLhyphen"/>vive,</hi> that by a fatal revolution, would reinduce a Common-Wealth, which was one of his <hi>Idea's;</hi> herein he did but dream, as well as others after him, that here the Apoſtle takes to task. Though they ſet all the little Wits they have left, upon the Tenters to out-reach all that have been be<g ref="char:EOLhyphen"/>fore them in ſuch vile attempts as theſe; <note place="margin">Pſal. 31.20. Old Verſion.</note> that cruelly, diſdainfully and deſpightfully act, as well as ſpeak againſt their Superiours.</p>
+            <p>So that the prophane <hi>Eſau, Iſhmael,</hi> and <hi>Rab<g ref="char:EOLhyphen"/>ſhekah,</hi> were but Bunglers to thoſe (as they would be thought gentiler Ones) in this moſt accompliſht age of ours.</p>
+            <p>St. <hi>Auſtin</hi> has an obſervation, that if a Felon or Traitor immediately upon his fact ſhould loſe his eyes, then all as immediately would be ready to look upon it, and conſtrue it as a Judgment:
+<pb n="39" facs="tcp:51919:22"/> But, <hi>oculum cordis amiſit, &amp; ei peperciſſe puta<g ref="char:EOLhyphen"/>tur,</hi> his heart is ſtone-blind, as well as hard; and then, Heaven is thought to be ſoft and indulgent to him.</p>
+            <p>Should it now deal with them that deſpiſe Dominion, <note place="margin">Num. 16.21,29. to 34th.</note> as it did with <hi>Corah,</hi> and his Rebellious crew, Nay but as St. <hi>Paul</hi> with <hi>Elymas,</hi> 
+               <note place="margin">Act. 13.8. to 12th.</note> when he ſet himſelf deſignedly in oppoſition to him, then all would learn at laſt, before it be too late, to hear and fear before the Lord and his An<g ref="char:EOLhyphen"/>ointed, <note place="margin">Deut. 17.13.</note> and do no more preſumptouſly as yet they do.</p>
+            <p>But, <hi>oculorum caecitas ad mentem tranſlata eſt,</hi> ſays <hi>Cicero;</hi> and few or none take notice of that more diſmal doom ſo far as he did; as if he had it from that of the holy Prophet, <note place="margin">Eſa. 6.9.</note> In ſee<g ref="char:EOLhyphen"/>ing they ſhall not ſee, at leaſt not perceive; Nay, their eyes have they cloſed as well as ears, <hi>leſt at any time they ſhould ſee with their Eyes, hear with their Ears, and underſtand with their Heart,</hi> and ſo ſhould come at laſt to be con<g ref="char:EOLhyphen"/>verted.</p>
+            <p>All avenues here we ſee are ſtopt, and bar<g ref="char:EOLhyphen"/>ricadoed; there's no approaching ſuch as theſe; Heaven it ſelf has interpos'd by way of pre<g ref="char:EOLhyphen"/>vention; <note place="margin">Mat. 13.13,14. Mark 4.12. Luk. 8.10. Joh. 12.40,41. Act. 28.25,26,27. Rom. 11.8.</note> therefore is this doom ſo fatally de<g ref="char:EOLhyphen"/>nounc'd from God by the Prophet, frequent<g ref="char:EOLhyphen"/>ly inſiſted on by our Saviour, and St. <hi>Paul,</hi>
+               <pb n="40" facs="tcp:51919:23"/> to ſhew, that we, as well as they ſhould take ſome more than ordinary notice of it.</p>
+            <p>It is the <hi>Panthers</hi> hatred to the Man, that makes him flie ſo fiercely at his Picture. <note place="margin">
+                  <hi>Poteſt iniquè Princeps, poteſt tamen odio eſſe nonnullis, e<g ref="char:EOLhyphen"/>tiamſt ipſe non oderit.</hi>
+               </note> And what in theſe dignified Dominions, that makes them purſued with ſuch an implacable <hi>Odium,</hi> but only the image of God that they bear up<g ref="char:EOLhyphen"/>on them: that of their Government, being the fair reſemblance of his, I mean as to Monarchy in Heaven, and upon Earth.</p>
+            <p>Not theſe, if they would ſpeak out, not theſe Dominions only that they ſo much ſtrike at, in all thoſe unheard of and unparallel'd af<g ref="char:EOLhyphen"/>fronts they have lately met withal; which Hea<g ref="char:EOLhyphen"/>ven and Earth may juſtly ſtand aſtoniſhed at, <note place="margin">Jer. 2.11,12.</note> and bluſh for them that will not, cannot do it for themſelves; no, they arrive higher yet in this their flight; take up the gantlet againſt Heaven it ſelf.</p>
+            <p>Theſe, theſe are the bold, and daring off<g ref="char:EOLhyphen"/>ſpring, that paſt a fiction, too truly do <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, bid battle againſt Heaven, in the great ſenſe of that greater word, a word by it ſelf, when they are told to their teeth, by one of their own Orators, <note place="margin">Act. 5.39.</note> That they fight againſt God.</p>
+            <p>How highly is the Holy one of Heaven pleaſed to ſhew himſelf concern'd in this con<g ref="char:EOLhyphen"/>traſt? He takes it wholly, ſolely to himſelf;
+<pb n="41" facs="tcp:51919:23"/> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the very word that we have here in the Text, <note place="margin">1 Theſ. 4.8.</note> 
+               <hi>He that deſpiſeth, deſpiſeth not man, but God;</hi> it reflects all at laſt directly upon him.</p>
+            <p>They do <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſpurn againſt hea<g ref="char:EOLhyphen"/>ven, and him that hath his Throne ſituate there, when thus they attaque Thrones, and Dominions here, as they will find in his own vindication of them. So that well might the bleſt <hi>Ignatius</hi> thus ſay, that whoever any ways attempts to extenuate the Sacred Order in Church as well as State, he is <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one that directly does defiance unto Chriſt, flies in his face; in one word, to an<g ref="char:EOLhyphen"/>ſwer his, an Atheiſt Cap-a-pe. <note place="margin">
+                  <hi>Ignatius</hi> is much, moſt upon this, in all his Epiſtles that are ac<g ref="char:EOLhyphen"/>counted and proved by the incomparable Biſhop of <hi>Che<g ref="char:EOLhyphen"/>ſter</hi> to be ge<g ref="char:EOLhyphen"/>nuine.</note> Which that none of them might ever be, that holy and truly Apoſtolical perſon beſeeches God it might never come within the compaſs of his hearing, or their receiving ſuch a black infection into their ſouls. For prevention of which diſeaſe, that Plaguy one as there he calls it, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the factious and ſeditious are habi<g ref="char:EOLhyphen"/>tually ſo very much diſpos'd to; he gives them a Soveraign antidote, and does <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he was their Taſter, as he tells them, and they as they valued the health of their ſouls, to pledge him in it.</p>
+            <p>He is very ſedulous in ſuch preſcripts as are theſe; cautions them to whom he writes, <note place="margin">
+                  <hi>Ad Tralliar.</hi>
+               </note> not
+<pb n="42" facs="tcp:51919:24"/> to offer by any means to contradict, or any ways oppoſe the Authority that Heaven had ſet over them: <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for it is, ſays he, a dread<g ref="char:EOLhyphen"/>ful thing to do it, reaches very high, as high as God himſelf; as in that apt inſtance that there he gives of <hi>Moſes,</hi> in that ingrateful Peoples murmurings; <note place="margin">Exod. 16.7,8.</note> which himſelf in his appeal to God ſays plainly were not againſt him and <hi>Aaron,</hi> but againſt the Lord.</p>
+            <p>And withal obſerves, that <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, none ever paſt without vengeance, that roſe up in reſiſtance, againſt their Superiours, whe<g ref="char:EOLhyphen"/>ther <hi>Moſes</hi> in the Civil, or <hi>Aaron</hi> in the Ec<g ref="char:EOLhyphen"/>cleſiaſtical State, but came to ſome formidable end.</p>
+            <p>Nay farther ſtill, that none ſuch either are, or can be truly conſcientious in themſelves, whatſoever their pretenſions are to others; <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> but only ſuch as have all formality and nothing of the Power and Energy of Godlineſs in them. For then they would not dare to blaſpheme the Gods, and indeavour to render thoſe Powers ſo impotent and inſignificant, which the hand of Omnipotency it ſelf, has induſtriouſly ſet up amongſt them. In purſuance of which he ſhews, how they ſhould ever have them in the greateſt and moſt valuable eſtimation; <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</note> as having, the expreſs image and repreſentation of the great
+<pb n="43" facs="tcp:51919:24"/> Deity upon them, as they govern us, from him that governs all. <note place="margin">1 Sam. 2.30.</note> And applies that peculiar of Gods own to them, <note place="margin">Heb. 10.28,29. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> He that honours them, he will honour; but who deſpiſeth them, ſhall be rendred as deſpicable himſelf: Such God will not let paſs always with impunity; for if they that deſpiſed <hi>Moſes</hi> Law died without mercy; then ſays He, in the Apoſtles words, of how much ſorer puniſhment ſhall they be thought worthy that deſpiſe Dominion now? They that thus ſmear and beſpatter Gods Anointed, that do any thing in deriſion and diſeſteem to them, whom he has taken ſo near to himſelf, into his particular care and conduct, they fall foul upon God him<g ref="char:EOLhyphen"/>ſelf, as <hi>Shimei</hi> did in his accoſt to <hi>David;</hi> 
+               <note place="margin">2 Sam. 16.5.7.</note> who was the firſt the Scripture gives us notice of, that ever did or durſt attempt ſuch a horrid, and before unheard of villany as to affront a King; (though he did it but at a diſtance nei<g ref="char:EOLhyphen"/>ther, not directly to his face;) as to caſt dirt upon the Robes of Royalty, <note place="margin">2 Sam. 16.13.</note> to bemire and vili<g ref="char:EOLhyphen"/>fie, nay, to prophane that Perſon, Power, which in Gods own eſtimate ever was and ſtill is, no leſs at all than Sacred, that he himſelf has ſtampt Divinity upon.</p>
+            <p>But now to ſee how docible ſome Creatures are, the meaneſt and vileſt Peaſant can outdo him; though in what he did, he gave too clear an
+<pb n="44" facs="tcp:51919:25"/> evidence, that there was no fear of God at all, before his eyes. When he was ſo fooliſhly as well as wickedly extravagant. <note place="margin">Pſal. 14.1,2.</note> For the ſame fool that ſays in his heart there is no King, ſays alſo, there is no God. And they that will not allow us to honour the King, would not leave us at laſt a King to honour: And they that in honouring and obeying the King, will not admit us to fear God, would (if they could) not leave us a God to fear.</p>
+            <p>And yet withal, to ſhew how daſtardly the moſt daring and audacious Atheiſts are, (and ſuch are thoſe degenerate Hectors of our age, who are va<g ref="char:EOLhyphen"/>liant in nought but fighting againſt their God and King; you find him (<hi>Shimei</hi> I mean) afterwards in another poſture; he comes ſubmiſſively to wipe, nay, ſneakingly to lick off that dirt again; is not more haſty before in curſing, <note place="margin">2 Sam. 19.18,19.20.</note> than he is after that in careſſing and complementing the King when the riſing Sun was ſet, praecocious <hi>Abſolom,</hi> under a ſad and ſable Cloud; quickly up, and as quickly down again; no more to be admir'd, to be ador'd. And he whoſe proper ſphere it was, breaks out afreſh, after all Eclipſes, which the interpoſition of their malice had made to dark<g ref="char:EOLhyphen"/>en him, more bright and glorious than ever.</p>
+            <p>The Race of true and real, not affected Ma<g ref="char:EOLhyphen"/>jeſty
+<pb n="45" facs="tcp:51919:25"/> (that's but a Stage or rather Puppet-play at beſt) are pure and piercing; dazzle the eyes of him, and all ſuch invidious ones as his. Who in the moſt virulent of all their deſpight, ſhall find at laſt they do but play at ſmall game.</p>
+            <p>I once heard as great a reputed Atheiſt as he was Commonwealths man, (and they are uſu<g ref="char:EOLhyphen"/>ally Twins) who durſt not ſpeak in the diſparage<g ref="char:EOLhyphen"/>ment of his Majeſties Perſon or Power, ('twas too early then, not long after his Triumphant Co<g ref="char:EOLhyphen"/>ronation,) fall very foul upon the <hi>Regalia,</hi> thoſe Enſigns of Majeſty, <note place="margin">
+                  <hi>Inſignid Ma<g ref="char:EOLhyphen"/>jeſtatis.</hi>
+               </note> with which he was then ſo ſolemnly and moſt magnificently Inaugu<g ref="char:EOLhyphen"/>rate; making the Crown and Scepter to be no better than meer childiſh gewgaws, (which as near as I can recollect, was his very word;) rendring all ſuch ſolemnities a perfect ridicule: Though together with the moſt Sacred Unction there was a Crown of pure Gold ſet upon the Head, and a ſumptuous Scepter put into the hands, of Kings in Scripture; which I think was then urged. <note place="margin">2 Sam. 1.10. 2 King. 11.12. 2 Chron. 23.11. Amos 1.5,8.</note>
+            </p>
+            <p>But you would wonder how very powerfully he did then inſinuate himſelf with ſome, and in his own conceit, paſt all controul.</p>
+            <p>You ſee what influence ſuch have amongſt the people, and how they begin at firſt to draw them into mean and deſpicable thoughts of theſe Do<g ref="char:EOLhyphen"/>minions,
+<pb n="46" facs="tcp:51919:26"/> that ſo at laſt they may hurry them on to the moſt daring and deſtructive practices; When not deſpiſing, not defaming no nor blaſ<g ref="char:EOLhyphen"/>pheming neither will ſuffice, but only depoſing, dethroning, annihilating them, (as you heard the Word imports). Here, here muſt be the black Cataſtrophe of all; which fate, how near, how very, very near it was lately to have been our own, there are none, but muſt be fear'd as well as ſenſeleſs, that are themſelves, and would have others to be wholly disbelievers, in a Caſe ſo clear and undeniable to any ſober, thought<g ref="char:EOLhyphen"/>ful, unprejudiced, and unbiaſt man. If we ſhould inſiſt any farther upon the inquiſition, and all were rightly once examin'd, we ſhould find, that concomitant to theſe two great Cauſes of the not only diſregard but direct defiance that is now done to theſe Dignities and Dominions, are thoſe which do proceed from intolerable Pride, Prejudice, Partiality and Preſumption. But above all, a ſcurrilous, ſcandalizing hu<g ref="char:EOLhyphen"/>mour, which is every where ſo vehemently predominant, in this unbridled and licentious age of ours.</p>
+            <p>And that both of the Tongue, and Pen; as to which, <hi>Machiavel</hi> from whom they have their Maxim, borrow'd it (ſome ſay) from <hi>Midas, viz. fortiter calumnari,</hi> to calumniate ſtoutly,
+<pb n="47" facs="tcp:51919:26"/> do it to purpoſe; and therefore they will be ſure, not to be behind hand with it in the leaſt; Their Superiours ſhall have it home; they'l lay on, and ſomething will ſtick, before all (or any thing with ſome) be taken off.</p>
+            <p>Some Mouths, the Prophet and Apoſtle from him tells us, <note place="margin">Rom. 3.13,14. from Pſal. 5.9.</note> are open Sepulchres; and how ma<g ref="char:EOLhyphen"/>ny ſuch Graves we have gaping all about us, to bury mens reputation in, before themſelves?</p>
+            <p>How many that (like the Serpent) carry Poyſon in their Tongues; nay, their Tongues have alſo poyſonous Teeth; <hi>the Poyſon of Aſps,</hi> as there 'tis call'd; and that is ſaid to be the moſt exquiſite.</p>
+            <p>The Devil the Old Serpent, ever was and will be the ſlanderer, as his name ſo ſignificant<g ref="char:EOLhyphen"/>ly implies: <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Pet. 5.8.</note> That original Accuſer, whoſe perpetual work it is to calumniate the beſt, and miſinform the worſt of men; and therefore he inſinuates himſelf into the ſociety of thoſe that would be <hi>Angeli agentes in rebus humanis;</hi> the great Intelligencers in the Higher, as well as Lower World.</p>
+            <p>His Pique as poynant and inveterate againſt them that make it their care and Conſcience with holy <hi>Job,</hi> 
+               <note place="margin">Job 16,7,8.</note> 
+               <hi>to keep their integrity</hi> as ever it was againſt him. <hi>De veneno Serpentis naſcuntur Vermes mendaciorum,</hi> ſays St. <hi>Auſtin;</hi> and for ſuch worms,
+<pb n="48" facs="tcp:51919:27"/> bred of the forbidden fruit, the cure is very diffi<g ref="char:EOLhyphen"/>cult, if not impoſſible.</p>
+            <p>Calumny ſo black and withal infectious ſo poyſonous and peſtilential a breath it bears, that it blaſts a Fame though never ſo white and clear.</p>
+            <p>Such a pernicious quality it has, ſays <hi>Bernard,</hi> that <hi>tres uno flatu lethaliter inficit;</hi> it kills three at once, the informant, informed, and him that is falſly and maliciouſly inform'd againſt. Like White Powder it kills without a Crack, though not without a Report, which now makes ſo great a noiſe in this tumultuous World.</p>
+            <p>And if ever a people given up of God to be<g ref="char:EOLhyphen"/>lieve lies, and live upon them, certainly theſe are they. <note place="margin">2 Theſ. 2.11,12. Iſa. 28.15. We have made lies our refuge, and under falſe<g ref="char:EOLhyphen"/>hood have we hid our ſelves. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>An endleſs task it would be to accoſt all, or indeed any ſort of Cavils, a moſt ſervile, ſor<g ref="char:EOLhyphen"/>did ſlavery; ſo the great <hi>Plato</hi> calls it.</p>
+            <p>Therefore ſome think 'twas nobly ſaid of him, <hi>Vindico me à conviciis ſolo contemptu;</hi> that he had the compleateſt conqueſt here only by as compleat contempt.</p>
+            <p>So ſaid <hi>Socrates,</hi> and believe it, he was no Fopp. When abus'd to his face upon the Stage, he only ſmil'd it off; gave it no greater notice.</p>
+            <p>One told <hi>Diogenes</hi> that the Boys laugh'd at him, <hi>at ego-non video,</hi> ſays he; he did not at all
+<pb n="49" facs="tcp:51919:27"/> regard it; and ſo he could laugh as faſt at them. And 'twas the opinion of no mean man, <hi>nondum foelix es, ſi te nondum derideat turba;</hi> that to be ridicul'd by the Rout, is a badge of happineſs as well as honour: it does not black, but bright<g ref="char:EOLhyphen"/>en; as if nothing could advance our credit or comfort at a higher rate than this: For if they have called the Maſter of the Houſe Beel<g ref="char:EOLhyphen"/>zebub, <note place="margin">Mat. 10.25.</note> no wonder if the beſt of his ſervants cannot eſcape the worſt of all their Cenſures. <note place="margin">
+                  <hi>Quo nihil im<g ref="char:EOLhyphen"/>menſus melius orbis habet.</hi> And again; <hi>Quo nihil ma<g ref="char:EOLhyphen"/>jus, meliuſve terris fata do<g ref="char:EOLhyphen"/>navere, boni<g ref="char:EOLhyphen"/>que dii, nec da<g ref="char:EOLhyphen"/>bunt quamvis cedant in aurum ſecula primum.</hi>
+               </note> This hath been the lot of the greateſt of Prin<g ref="char:EOLhyphen"/>ces, that ever wore a Diadem; you ſhall not ſee a Crown without this Croſs in it: <hi>Titus Veſpaſian,</hi> Sirnamed <hi>Deliciae humani generis,</hi> the Darling of men, as <hi>David</hi> was of God, drew this Lot: and ſo <hi>Auguſtus Caeſar,</hi> of whom 'twas ſaid, as it may be of ours, than whom the World yet never had more great, more good, or ever ſhall, or can, till it ſhall be no more.</p>
+            <p>This I know, to ſome is but as the ſound<g ref="char:EOLhyphen"/>ing Braſs, and tinkling Cymbal; <note place="margin">1 Cor. 13.1.</note> to ſuch as would deal with ours, as the <hi>Jews</hi> did with their and our King Jeſus; <note place="margin">Mat. 27.29.</note> put a Reed inſtead of a Scepter into his hand; and a Crown of Thorns upon his Head, and do it in as de<g ref="char:EOLhyphen"/>ſpightful a deriſion.</p>
+            <p>But better it is, more ſuitable, and de<g ref="char:EOLhyphen"/>cent, and I hope more ſeaſonable, than the
+<pb n="50" facs="tcp:51919:28"/> noiſe of Pulpit-Drums, and <hi>Sheba's</hi> Seditious Trumpet, <note place="margin">2 Sam. 20.1.</note> to ſound an Alarm to another Holy War, as formerly we know full well they did.</p>
+            <p>To cloſe all then with that which ſounds more peacefully and harmoniouſly, namely, the Prayers that our holy Church has taught us. As we are moſt humbly and heartily to implore, <note place="margin">Engliſh Litur<g ref="char:EOLhyphen"/>gy, in ſeveral of its Prayers, both upon or<g ref="char:EOLhyphen"/>dinary, and extraordinary occaſions.</note> 
+               <hi>That God would ſo rule the Heart of his choſen Servant</hi> Charles <hi>our King and Governour, that he knowing whoſe Miniſter he is, may above all things ſeek his Honour and Glory;</hi> ſo <hi>that we, and all his Subjects, duly conſidering whoſe authority he hath, may faithfully ſerve, honour, and humbly, in God, and for God, obey him, according to his bleſ<g ref="char:EOLhyphen"/>ſed Word, and Ordinance;</hi> that as we have thus promiſed, we may as carefully and con<g ref="char:EOLhyphen"/>ſcientiouſly, in the ſight of God, perform all Loy<g ref="char:EOLhyphen"/>al and Dutiful Allegiance to his anointed Servant, our Dread Soveraign, and his Law<g ref="char:EOLhyphen"/>ful Heirs that ſhall ſucceed him. That our Gracious King may through Gods abundant mercy continue his Reign over us, in vertue, God<g ref="char:EOLhyphen"/>lineſs and honour, many, and many years. And that we dutifully ſerving and obeying him, with all honour, fidelity, &amp; chearfulneſs, as faithful and Loyal Subjects, may long enjoy him with the continuance of thoſe great and moſt invaluable bleſſings, which by him, God has vouchſafed us:
+<pb n="51" facs="tcp:51919:28"/> But eſpecially the profeſſion of the only true Pro<g ref="char:EOLhyphen"/>teſtant Religion, by Law eſtabliſhed amongſt us.</p>
+            <p>That God would ſtrengthen the hands of him, and all that are put in Authority under him, with Judgment and Juſtice effectually to ſuppreſs all ſuch workers of iniquity, as would turn Religion into Rebellion, and Faith into Faction, that they may never be able to prevail againſt us, or triumph in the ru<g ref="char:EOLhyphen"/>ine of Gods Holy Church amongſt us: But that our Gracious Soveraign, and his Realms being preſerved in Gods true Religion, and by his merciful goodneſs ſtill protected in the ſame, we may all duly ſerve our God and our King; and evermore offer up our Prayers and Praiſes to God for King, and People, in the publick Con<g ref="char:EOLhyphen"/>gregation, and hereto let all that are there aſſembled, ſay <hi>Amen;</hi> So be it, through Jeſus Chriſt our Lord; the King of Kings, and Lord of Lords; the bleſſed and only Potentate of all the World; <note place="margin">1 Tim. 1.17. 6.15,16.</note> 
+               <hi>Now unto the King Eternal, Immor<g ref="char:EOLhyphen"/>tal, Inviſible, the only Wiſe God, Father; Son, and Holy Ghoſt, be aſcribed all Honour, Power and Glo<g ref="char:EOLhyphen"/>ry, whoſe is the Kingdom, the Power, and the Glory, for ever, and ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
